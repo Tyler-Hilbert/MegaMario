@@ -1,0 +1,34 @@
+E:\CP2\Mega Mario\Mega Mario\Mega Mario.exe.config
+E:\CP2\Mega Mario\Mega Mario\Mega Mario.exe
+E:\CP2\Mega Mario\Mega Mario\Mega Mario.pdb
+E:\CP2\Mega Mario\Mega Mario\Mega Mario.xml
+X:\CP2\Mega Mario\Mega Mario\Mega Mario.exe.config
+X:\CP2\Mega Mario\Mega Mario\Mega Mario.exe
+X:\CP2\Mega Mario\Mega Mario\Mega Mario.pdb
+X:\CP2\Mega Mario\Mega Mario\Mega Mario.xml
+Y:\Programming\Mega Mario - vb.net\Mega Mario\Mega Mario\Mega Mario.exe.config
+Y:\Programming\Mega Mario - vb.net\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.exe
+Y:\Programming\Mega Mario - vb.net\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.xml
+Y:\Programming\Mega Mario - vb.net\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.pdb
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.exe.config
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.exe
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.xml
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.pdb
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.exe.config
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.exe
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.xml
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.pdb
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega_Mario.frmMegaMario.resources
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega_Mario.Resources.resources
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.vbproj.GenerateResource.Cache
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.exe
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.pdb
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.xml
+E:\CP2\Mega Mario\Mega Mario\Mega Mario\mario theme song.wav
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega_Mario.frmMegaMario.resources
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega_Mario.Resources.resources
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario\obj\Debug\Mega Mario.vbproj.GenerateResource.Cache
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\mario theme song.wav
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.exe
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.pdb
+X:\CP2\Mega Mario\Mega Mario\Mega Mario\Mega Mario.xml
